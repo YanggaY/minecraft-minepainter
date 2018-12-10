@@ -1,0 +1,13 @@
+itemGroup.minepainter=마인페인터(minepainter)
+item.chisel.name=돌 조각칼
+item.barcutter.name=철 조각칼
+item.saw.name=다이아몬드 조각칼
+item.canvas.name=캔버스
+item.palette.name=팔레트
+item.mini_brush.name=얇은 붓
+item.mixer_brush.name=굵은 붓
+item.eraser.name=지우개
+item.wrench.name=렌치
+item.paint_bucket.name=페인트 통
+item.sculpture_piece.name=조각품 조각
+item.dropped_sculpture.name=조각품
